@@ -510,14 +510,14 @@ function Homepage() {
   return (
     <div id="main">
       <header className="header">
-        <h2>Hash/Hub</h2>
-        <h1>
-          📄<span>Resume Maker </span>{" "}
-        </h1>
+        <h2>ResumeForge</h2>
+        {/* <h1> */}
+          {/* 📄<span> </span>{" "} */}
+        {/* </h1> */}
         <div className="right">
-          <a href="https://github.com/vedant-jain03/Resume-Maker">Contribute</a>
+          {/* <a href="https://github.com/vedant-jain03/Resume-Maker">Contribute</a> */}
           <a href="https://github.com/vedant-jain03/Resume-Maker">
-            Give us star
+            Logout
           </a>
         </div>
       </header>
@@ -834,11 +834,11 @@ function Homepage() {
         </div>
       </main>
       <footer className="footer">
-        <p>Copyright © 2021. All rights reserved.</p>
+        <p>Copyright © 2024. All rights reserved.</p>
       </footer>
     </div>
   );
 }
 
 export default Homepage;
-//Vedant Jain Code Officially
+
