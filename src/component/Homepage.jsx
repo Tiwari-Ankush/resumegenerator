@@ -516,9 +516,9 @@ function Homepage() {
         {/* </h1> */}
         <div className="right">
           {/* <a href="https://github.com/vedant-jain03/Resume-Maker">Contribute</a> */}
-          <a href="https://github.com/vedant-jain03/Resume-Maker">
+          {/* <a href="https://github.com/vedant-jain03/Resume-Maker">
             Logout
-          </a>
+          </a> */}
         </div>
       </header>
       <main className="maincomponent">
@@ -834,7 +834,7 @@ function Homepage() {
         </div>
       </main>
       <footer className="footer">
-        <p>Copyright © 2024. All rights reserved.</p>
+        <p>Copyright © 2024- ResumeForge. All rights reserved.</p>
       </footer>
     </div>
   );
