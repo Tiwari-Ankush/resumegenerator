@@ -510,15 +510,8 @@ function Homepage() {
   return (
     <div id="main">
       <header className="header">
-        <h2>ResumeForge</h2>
-        {/* <h1> */}
-          {/* 📄<span> </span>{" "} */}
-        {/* </h1> */}
-        <div className="right">
-          {/* <a href="https://github.com/vedant-jain03/Resume-Maker">Contribute</a> */}
-          {/* <a href="https://github.com/vedant-jain03/Resume-Maker">
-            Logout
-          </a> */}
+        <h1>SKILOO</h1>
+        <div className="header-right">
         </div>
       </header>
       <main className="maincomponent">
@@ -834,7 +827,7 @@ function Homepage() {
         </div>
       </main>
       <footer className="footer">
-        <p>Copyright © 2024- ResumeForge. All rights reserved.</p>
+        <p>Copyright © 2025- Skiloo. All rights reserved.</p>
       </footer>
     </div>
   );

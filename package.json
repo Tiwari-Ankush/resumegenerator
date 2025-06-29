@@ -1,9 +1,9 @@
 {
-  "name": "resume_maker",
+  "name": "SKILOO",
   "description": "A simple resume maker application built with React and Material-UI.",
   "author": "Ankush Tiwari",
   "license": "MIT",
-  "homepage": "https://ankush-tiwari.github.io/resume_maker/",
+  "homepage": "https://ankush-tiwari.github.io/skiloo/",
   "repository": {
     "type": "git",
     "url": ""
